@@ -1,5 +1,5 @@
 (() => {
-  function sayHi(str){
+  function sayHi(str:string){
     return '妳好'+ str
   }
   let text = '小田'
